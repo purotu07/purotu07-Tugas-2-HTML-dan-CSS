@@ -1,0 +1,102 @@
+body{
+    background: #f3f3f3;
+    color:#333;
+    width:100%;
+    font-family:sans-serif;
+    margin:0 auto;
+}
+
+.header{
+    text-align: center;
+    justify-content: center;
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#2fb4a9;
+    color:#fff;
+}
+
+.menu{
+    text-align: center;
+    justify-content: center;
+    background-color:#2fb4a9;
+    height:50px;
+    line-height:50px;
+    width:90%;
+    margin:0 auto;
+    padding:0 auto;
+}
+  
+.jarak{
+    padding:0 2pc;
+}
+
+.menu ul{
+    list-style:none;
+}
+
+.menu ul li a {
+    text-align: center;
+    justify-content: center;
+    float:left;
+    width:70px;
+    display:block;
+    color:#FFF;
+    text-decoration:none;
+    padding-left: 10px;
+}
+.menu ul li a:hover{
+    background-color:#4ff0bf86;
+    display:block;
+}
+
+.content{
+    width:90%;
+    margin:auto;
+    height:420px;
+    padding:0px;
+    display:block;
+    background:#fff;
+    color:#333;
+}
+
+.border{
+    width: 45%;
+    border:2px solid #2fb4a9;
+    margin-top:1pc;
+    padding-bottom:1pc;
+    padding-left:2pc;
+    padding-right:2pc;
+}
+
+.kiri{
+    width:40%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
+}
+
+.kanan{
+    width:60%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
+}
+
+.undercor{
+    text-decoration:none;
+}
+
+footer{
+    width:90%;
+    margin:auto;
+    height:40px;
+    line-height:40px;
+    background:#2fb4a9;
+    color:#fff;
+    margin-bottom:1pc;
+    text-align: center;
+}
